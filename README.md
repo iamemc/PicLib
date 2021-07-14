@@ -88,12 +88,12 @@ _Root Folder of the Project_
 └───Piclib
 |	|	mainImgCollection.json
 |	|	mainTagCollection.json
-|   │
-|   └───2021
-|			__etc__
+|       │
+|       └───2021
+|		|__etc__
 |   		│
-|			|	image_name.jpg
-|			|	image_name.json
+|		|	image_name.jpg
+|		|	image_name.json
 ```
 
 
