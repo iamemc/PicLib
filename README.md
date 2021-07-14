@@ -20,7 +20,7 @@ Photo &amp; Image Manager
 
 
 
-DELIVERY STRUCTURE
+STRUCTURE
 ---------------
 
 - appmodule.py
